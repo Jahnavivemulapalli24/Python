@@ -8,7 +8,7 @@ then displayed using matplotlib
 
 if you don't have pyaudio, then run
 
->>> pip install pyaudio
+>>> pip install pyaudio jhdcj
 
 note: with 2048 samples per chunk, I'm getting 20FPS
 """
